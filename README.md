@@ -1,4 +1,4 @@
-# Project for Statistical Methods for Machine Learning - Master in Computer Science, AA 2021/2022
+# Statistical Methods for Machine Learning - Master in Computer Science, AA 2021/2022
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeppeMaxCaru/StatisticalMethodsForML_CNN/blob/main/src/StatisticalMethodsForML_CNN.ipynb)
 
