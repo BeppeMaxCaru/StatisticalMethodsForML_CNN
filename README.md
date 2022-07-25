@@ -9,7 +9,7 @@ This repository contains the work towards the Deep Learning project for the exam
 
 
 
-(https://docs.google.com/document/d/1xjFTvXYAxG5eeSmxzfJZIwq3LD__4VyTQMiDfadKR0I/edit?usp=sharing).  
+([https://docs.google.com/document/d/1xjFTvXYAxG5eeSmxzfJZIwq3LD__4VyTQMiDfadKR0I/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vR2bC67rN6ZzXl_hfaTqhOSw51IlybmGoRgBL-7KmVCCRIy4R6SHDxnJ38bwZj7TD-2qwnNUxLIayYK/pub)).  
 
 
 
